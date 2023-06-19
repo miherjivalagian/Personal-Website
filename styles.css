@@ -59,6 +59,10 @@
     display: flex;
     justify-content: center;
   }
+
+  .spaced-list li {
+    margin-right: 10px;
+  }
   
   nav
   
